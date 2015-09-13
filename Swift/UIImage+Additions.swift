@@ -1,9 +1,9 @@
 //
-//  UIImage + Additions.swift
-//  SwiftCategories
+//  UIImage+Additions.swift
+//  iOSCategories
 //
 //  Created by Applico on 6/2/15.
-//  Copyright (c) 2015 Applico. All rights reserved.
+//  Copyright (c) 2015 Applico Inc. All rights reserved.
 //
 
 import Foundation

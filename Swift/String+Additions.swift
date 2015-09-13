@@ -2,7 +2,7 @@
 //  String+Additions.swift
 //  iOSCategories
 //
-//  Created by Josh L on 6/1/15.
+//  Created by Applico on 6/1/15.
 //  Copyright (c) 2015 Applico Inc. All rights reserved.
 //
 
